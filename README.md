@@ -19,6 +19,7 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp 
 </p>
 
 ## More about me
