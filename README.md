@@ -1,26 +1,17 @@
-
-
-<div align=center>
-  
-</div>
-
-<div align="center">
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengcang&count_bg=%23D775D5&title_bg=%23434746&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <sub>from `2021. 04. 18`<br>(Joined GitHub on `2017. 12. 21`)</sub>
 
-# EungChang Mason Lee
-+ PhD student in [KAIST](https://ee.kaist.ac.kr/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Interest
+</div>
+
 + Unmanned Aerial Vehicle, Exploration, Control, Indoor navigation, Visual-Inertial Odometry
 + Mutl-robot systems, Multi-robot SLAM, Quadruped robots
 
+<div align="center">
 ## Skills
 
+</div>
 
 ## More about me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://engcang.github.io/)](https://engcang.github.io/) 
@@ -28,8 +19,9 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC1Bui82br7_gmlaVRcCERcQ/featured)](https://www.youtube.com/channel/UC1Bui82br7_gmlaVRcCERcQ/featured) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eungchang_mason@kaist.ac.kr)](mailto:eungchang_mason@kaist.ac.kr)
 
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <!-- referred [here](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/) [here2](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0) [here3](https://github.com/ProtossDragoon/ProtossDragoon/blob/master/README.md) -->
 
