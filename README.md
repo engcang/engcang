@@ -8,8 +8,8 @@
 
 ## Interest 😮
 
-Unmanned Aerial Vehicle, Exploration, Control, Indoor navigation, Visual-Inertial Odometry <br>
-Mutl-robot systems, Multi-robot SLAM, Quadruped robots
+**Unmanned Aerial Vehicle, Exploration, Control, Indoor navigation, Visual-Inertial Odometry <br>
+Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
   
 ## Skills 🛠
 <p align="center">
