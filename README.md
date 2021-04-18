@@ -26,11 +26,11 @@
   <a href="https://blog.naver.com/engcang"><img src="https://img.shields.io/badge/-NAVER-green?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp
   <a href="https://www.linkedin.com/in/eungchang-lee-683281200/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
   <a href="mailto:eungchang_mason@kaist.ac.kr"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-  <a href="https://scholar.google.com/citations?user=L02b38oAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/GoogleScholar?style=flat-square&logo=googlescholar&logoColor=white"/></a>&nbsp
+  <a href="https://scholar.google.com/citations?user=L02b38oAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/GoogleScholar-white?style=flat-square&logo=googlescholar&logoColor=white"/></a>&nbsp
 </p>
 <!--img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
