@@ -6,12 +6,12 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengcang&count_bg=%23D775D5&title_bg=%23434746&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Interest
+## Interest 😮
 
 Unmanned Aerial Vehicle, Exploration, Control, Indoor navigation, Visual-Inertial Odometry <br>
 Mutl-robot systems, Multi-robot SLAM, Quadruped robots
   
-## Skills
+## Skills 🛠
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -22,7 +22,7 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots
   <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp 
 </p>
 
-## More about me
+## More about me 🙂
 <p align="center">
   <a href="https://engcang.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <a href="https://www.youtube.com/channel/UC1Bui82br7_gmlaVRcCERcQ/featured"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
