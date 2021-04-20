@@ -11,7 +11,7 @@
 **Unmanned Aerial Vehicle, Exploration, Control, Indoor navigation, Visual-Inertial Odometry <br>
 Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
   
-## Skills 🛠
+## 🛠 Skills 🛠
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -41,7 +41,7 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
 
 <br>
 
-## Pinned 📌
+## 📌 Pinned repos 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-application&theme=chartreuse-dark)](https://github.com/engcang/vins-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ros-yolo-sort&theme=chartreuse-dark)](https://github.com/engcang/ros-yolo-sort)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=utility_codes&theme=chartreuse-dark)](https://github.com/engcang/utility_codes)
