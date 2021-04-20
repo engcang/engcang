@@ -35,7 +35,7 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
   <a href="https://scholar.google.com/citations?user=L02b38oAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcang)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
