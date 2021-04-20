@@ -42,13 +42,13 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
 <br>
 
 ## Pinned 📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-application)](https://github.com/engcang/vins-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ros-yolo-sort)](https://github.com/engcang/ros-yolo-sort)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=utility_codes)](https://github.com/engcang/utility_codes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=mavros-gazebo-application)](https://github.com/engcang/mavros-gazebo-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=rovio-application)](https://github.com/engcang/rovio-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=orbslam2-application)](https://github.com/engcang/orbslam2-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=orb-slam2-modified)](https://github.com/engcang/orb-slam2-modified)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-fusion-gpu-no-ros)](https://github.com/engcang/vins-fusion-gpu-no-ros)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-application&theme=chartreuse-dark)](https://github.com/engcang/vins-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ros-yolo-sort&theme=chartreuse-dark)](https://github.com/engcang/ros-yolo-sort)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=utility_codes&theme=chartreuse-dark)](https://github.com/engcang/utility_codes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=mavros-gazebo-application&theme=chartreuse-dark)](https://github.com/engcang/mavros-gazebo-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=rovio-application&theme=chartreuse-dark)](https://github.com/engcang/rovio-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=orbslam2-application&theme=chartreuse-dark)](https://github.com/engcang/orbslam2-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=orb-slam2-modified&theme=chartreuse-dark)](https://github.com/engcang/orb-slam2-modified)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-fusion-gpu-no-ros&theme=chartreuse-dark)](https://github.com/engcang/vins-fusion-gpu-no-ros)
 
 </div>
