@@ -18,7 +18,7 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SolidWorks-FF3333?style=flat-square&logo=Solidworks&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -30,7 +30,7 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
 
 ## More about me 🙂
 <p align="center">
-  <a href="https://engcang.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <a href="https://engcang.github.io/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <a href="https://www.youtube.com/channel/UC1Bui82br7_gmlaVRcCERcQ/featured"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
   <a href="https://blog.naver.com/engcang"><img src="https://img.shields.io/badge/-NAVER-green?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp
   <a href="https://www.linkedin.com/in/eungchang-lee-683281200/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
