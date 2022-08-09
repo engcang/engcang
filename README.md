@@ -56,6 +56,9 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimHyungTae&repo=Eigen_for_Robotics&theme=chartreuse-dark)](https://github.com/LimHyungTae/Eigen_for_Robotics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=mavros-gazebo-application&theme=chartreuse-dark)](https://github.com/engcang/mavros-gazebo-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=vins-fusion-gpu-no-ros&theme=chartreuse-dark)](https://github.com/engcang/vins-fusion-gpu-no-ros)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ceo-mlcpp&theme=chartreuse-dark)](https://github.com/engcang/ceo-mlcpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=TROT-Q&theme=chartreuse-dark)](https://github.com/engcang/TROT-Q)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ieee_uav_2022&theme=chartreuse-dark)](https://github.com/engcang/ieee_uav_2022)
 
 
 </div>
