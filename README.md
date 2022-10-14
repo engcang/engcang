@@ -55,7 +55,6 @@ Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=gazebo_maps&theme=chartreuse-dark)](https://github.com/engcang/gazebo_maps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=oakd-ros-simple&theme=chartreuse-dark)](https://github.com/engcang/oakd-ros-simple)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=utility_codes&theme=chartreuse-dark)](https://github.com/engcang/utility_codes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=mavros-gazebo-application&theme=chartreuse-dark)](https://github.com/engcang/mavros-gazebo-application)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ceo-mlcpp&theme=chartreuse-dark)](https://github.com/engcang/ceo-mlcpp) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=TROT-Q&theme=chartreuse-dark)](https://github.com/engcang/TROT-Q)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engcang&repo=ieee_uav_2022&theme=chartreuse-dark)](https://github.com/engcang/ieee_uav_2022)
