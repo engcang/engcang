@@ -54,6 +54,7 @@ Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
 ### ⚙️ Algorithms
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST_LIO_MULTI&theme=chartreuse-dark)](https://github.com/engcang/FAST_LIO_MULTI)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sungwook87&repo=mlcpp&theme=chartreuse-dark)](https://github.com/sungwook87/mlcpp)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=TROT-Q&theme=chartreuse-dark)](https://github.com/engcang/TROT-Q)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=ieee_uav_2022&theme=chartreuse-dark)](https://github.com/engcang/ieee_uav_2022)
