@@ -44,14 +44,15 @@ Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
 
 ## 📌 Pinned repos 📌
 ### 👓🔧 Analysis and utils
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=SLAM-application&theme=chartreuse-dark)](https://github.com/engcang/SLAM-application)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=vins-application&theme=chartreuse-dark)](https://github.com/engcang/vins-application)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=ros-yolo-sort&theme=chartreuse-dark)](https://github.com/engcang/ros-yolo-sort)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=SLAM-application&theme=chartreuse-dark)](https://github.com/engcang/SLAM-application)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=tkdnn-ros&theme=chartreuse-dark)](https://github.com/engcang/tkdnn-ros)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=oakd-ros-simple&theme=chartreuse-dark)](https://github.com/engcang/oakd-ros-simple)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=utility_codes&theme=chartreuse-dark)](https://github.com/engcang/utility_codes)
 
 ### ⚙️ Algorithms
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM-SC-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM-SC-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST_LIO_MULTI&theme=chartreuse-dark)](https://github.com/engcang/FAST_LIO_MULTI)
