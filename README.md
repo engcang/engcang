@@ -8,8 +8,8 @@
 
 ## Interest 😮
 
-**Unmanned Aerial Vehicle, Exploration, Obstacle avoidance, Coverage Path Planning, <br>
-Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
+**Unmanned Aerial Vehicle, Exploration, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM, <br>
+Control, Obstacle avoidance, Coverage Path Planning**
   
 ## 🛠 Skills 🛠
 <p align="center">
@@ -56,6 +56,7 @@ Control, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM**
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST_LIO_MULTI&theme=chartreuse-dark)](https://github.com/engcang/FAST_LIO_MULTI)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-Localization-SC-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-Localization-SC-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-Localization-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-Localization-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sungwook87&repo=mlcpp&theme=chartreuse-dark)](https://github.com/sungwook87/mlcpp)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=TROT-Q&theme=chartreuse-dark)](https://github.com/engcang/TROT-Q)
