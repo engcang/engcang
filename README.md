@@ -42,6 +42,13 @@ Control, Obstacle avoidance, Coverage Path Planning**
 
 <br>
 
+## 🧑🏻‍🌾 My Git Farm 🐙
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/engcang"/>
+</a>
+
+<br>
+
 ## 📌 Pinned repos 📌
 ### 👓🔧 Analysis and utils
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=SLAM-application&theme=chartreuse-dark)](https://github.com/engcang/SLAM-application)
