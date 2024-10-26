@@ -17,7 +17,7 @@ Control, Obstacle avoidance, Coverage Path Planning**
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SolidWorks-FF3333?style=flat-square&logo=Solidworks&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SolidWorks-FF3333?style=flat-square&logo=dassaultsystemes&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -29,8 +29,10 @@ Control, Obstacle avoidance, Coverage Path Planning**
 
 ## More about me 🙂
 <p align="center">
-  <a href="https://engcang.github.io/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <a href="https://engcang.github.io/AllowanceRobotics-Gazeboyz/"><img src="https://img.shields.io/badge/-Freelancing-000000?style=flat-square&logo=Freelancer&logoColor=29B2FE"/></a>&nbsp
+  <a href="https://engcang.github.io/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UC1Bui82br7_gmlaVRcCERcQ/featured"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
+  <br>
   <a href="https://www.linkedin.com/in/eungchang-lee-683281200/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
   <a href="mailto:eungchang_mason@kaist.ac.kr"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://scholar.google.com/citations?user=L02b38oAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
