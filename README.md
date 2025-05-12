@@ -44,9 +44,9 @@ Control, Obstacle avoidance, Coverage Path Planning**
 ### 👓🔧 Analysis and utils
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=SLAM-application&theme=chartreuse-dark)](https://github.com/engcang/SLAM-application)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=vins-application&theme=chartreuse-dark)](https://github.com/engcang/vins-application)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=exploration-algorithms&theme=chartreuse-dark)](https://github.com/engcang/exploration-algorithms)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=ros-yolo-sort&theme=chartreuse-dark)](https://github.com/engcang/ros-yolo-sort)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=TensorRT_YOLOv9_ROS&theme=chartreuse-dark)](https://github.com/engcang/TensorRT_YOLOv9_ROS)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=tkdnn-ros&theme=chartreuse-dark)](https://github.com/engcang/tkdnn-ros)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=oakd-ros-simple&theme=chartreuse-dark)](https://github.com/engcang/oakd-ros-simple)
 
 ### ⚙️ Algorithms
