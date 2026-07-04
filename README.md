@@ -2,23 +2,7 @@
   
 ![](https://komarev.com/ghpvc/?username=engcang&color=ff69b4&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
 
-## Interest 😮
-
-**Unmanned Aerial Vehicle, Exploration, LiDAR(Visual)-Inertial Odometry, SLAM, Active SLAM, <br>
-Control, Obstacle avoidance, Coverage Path Planning**
-  
-## 🛠 Skills 🛠
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SolidWorks-FF3333?style=flat-square&logo=dassaultsystemes&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/></a>&nbsp
-</p>
+### Please visit [my website](https://engcang.github.io/) and see my CV to learn more about me.
 
 ## More about me 🙂
 <p align="center">
