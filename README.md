@@ -2,9 +2,9 @@
   
 ![](https://komarev.com/ghpvc/?username=engcang&color=ff69b4&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
 
-### Please visit [my website](https://engcang.github.io/) and see my CV to learn more about me.
+## Please visit [my website](https://engcang.github.io/) and see my CV to learn more about me.
 
-## More about me 🙂
+## Socials
 <p align="center">
   <a href="https://engcang.github.io/AllowanceRobotics-Gazeboyz/"><img src="https://img.shields.io/badge/-Freelancing-000000?style=flat-square&logo=Freelancer&logoColor=29B2FE"/></a>&nbsp
   <a href="https://engcang.github.io/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>
