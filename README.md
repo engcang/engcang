@@ -31,6 +31,9 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=oakd-ros-simple&theme=chartreuse-dark)](https://github.com/engcang/oakd-ros-simple)
 
 ### ⚙️ Algorithms
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=BIEVR-SuperOdometry-DataExploitation&theme=chartreuse-dark)](https://github.com/engcang/BIEVR-SuperOdometry-DataExploitation)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=BIEVR-LIO-ESIKF&theme=chartreuse-dark)](https://github.com/engcang/BIEVR-LIO-ESIKF)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=Surfel-FAST-LIO2-Eigen&theme=chartreuse-dark)](https://github.com/engcang/Surfel-FAST-LIO2-Eigen)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM-SC-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM-SC-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM-QN&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM-QN)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=FAST-LIO-SAM&theme=chartreuse-dark)](https://github.com/engcang/FAST-LIO-SAM)
@@ -40,7 +43,6 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sungwook87&repo=mlcpp&theme=chartreuse-dark)](https://github.com/sungwook87/mlcpp)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=TROT-Q&theme=chartreuse-dark)](https://github.com/engcang/TROT-Q)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=ieee_uav_2022&theme=chartreuse-dark)](https://github.com/engcang/ieee_uav_2022)
-<!-- [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=ceo-mlcpp&theme=chartreuse-dark)](https://github.com/engcang/ceo-mlcpp) -->
 
 ### 🤖 Simulations
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=engcang&repo=gazebo_maps&theme=chartreuse-dark)](https://github.com/engcang/gazebo_maps)
