@@ -17,7 +17,7 @@
 
 <br>
 
-[![engcang's GitHub stats](https://github-stats-extended.vercel.app/api?username=engcang&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![engcang's GitHub stats](https://github-stats-extended.vercel.app/api?username=engcang&include_all_commits=true&rank_icon=percentile&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
